@@ -1,5 +1,5 @@
 # footer-form
-It's no surprise that having footer forms on all of your web pages increase website conversions. Since there's more places for site visitors to convert, by default the probability is higher. How can you make the probability even higher? Making that footer form more than just a one way street can certainly help. Don't just ask for information, exchange information. 
+It's no surprise that having footer forms on all of your web pages increases website conversions. Since there are more places for site visitors to convert, by default the probability of them converting is higher. How can you make the probability even higher? Making that footer form more than just a one way street can certainly help. Don't just ask for information, exchange information. 
 
 While they are filling out the form there may be a graphic or video that entices them even more. Perhaps without the graphic or video, they wouldn't have even submitted the form. In this article, [Solodev](https://www.solodev.com/) will teach you how to add a multimedia footer form to your web pages.
 
